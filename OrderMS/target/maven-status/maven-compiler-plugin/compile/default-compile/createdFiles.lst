@@ -1,0 +1,5 @@
+com\example\OrderMS\controller\OrderController.class
+com\example\OrderMS\OrderMsApplication.class
+com\example\OrderMS\repository\OrderRepo.class
+com\example\OrderMS\service\OrderService.class
+com\example\OrderMS\entity\Orders.class
